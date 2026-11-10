@@ -49,7 +49,7 @@ export default function ReminderTab() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.emoji}>🥛</Text>
+      <Text style={styles.emoji}>🥤</Text>
 
       <Text style={styles.label}>Add a Custom Message</Text>
       <TextInput
